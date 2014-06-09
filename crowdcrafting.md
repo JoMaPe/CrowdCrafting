@@ -83,7 +83,6 @@ Die Initiatoren der Plattform CrowdCrafting sind das Citizen Cyberscience Center
 
 ![Eyewire](images/eyewire.png "Eyewire")
 
-# Literaturangaben
 
 
   [1]: http://crowdcrafting.org/app/category/featured/
