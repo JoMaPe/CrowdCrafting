@@ -1,13 +1,13 @@
 Das Citizen-Science-Project crowdcrafting
 Johanna Peter
 
-![Logo des Projekts CrowdCrafting](images\\crowdcraftinglogo.png "Logo CrowdCrafting")
+![Logo des Projekts CrowdCrafting](images/crowdcraftinglogo.png "Logo CrowdCrafting")
 
 # Einführung
 
 [CrowdCrafting][1] ist der Name einer englischsprachigen, internationalen Online Plattform die verschiedene Applikationen zur Verfügung stellt, mit Hilfe derer viele Menschen parallel an einem (Forschungs-)projekt mitarbeiten können.  Der Name *CrowdCrafting* beschreibt hierbei die Eigenschaft, dass mit Hilfe der Bevölkerung, also einer großen Menge Menschen, etwas gemeinsam erstellt wird. Bei *CrowdCrafting* handelt es sich um ein *Citizen Science Projekt* und *Crowd Sourcing Projekt*. *Citizen Science Projekte* bieten Bürgerinnen und Bürgern die Möglichkeit, sich an Projekten unterschiedlicher Thematiken und Forschungsbereiche einzubringen.  Der Begriff *Crowd Sourcing* setzt sich aus den beiden Begriffen "Crowd" für "Menschenmenge" und "Outsourcing" für "Etwas auslagern" zusammen. Bei *Crowd Sourcing* Projekten werden Aufgaben, die normalerweise intern ausgeführt werden, an die Gesellschaft abgegeben und somit ausgelagert. [@wikipedia/crowdsourcing], [@crowd crafting]
 
-![Beispiel für ein CrowdCrafting Projekt](images\\crowdcraftingbsp.png "Beispiel CrowdCrafting")
+![Beispiel für ein CrowdCrafting Projekt](images/crowdcraftingbsp.png "Beispiel CrowdCrafting")
 
 # Eignung und Grenzen
 
@@ -73,7 +73,7 @@ Die Initiatoren der Plattform CrowdCrafting sind das Citizen Cyberscience Center
 - [Recaptcha][8]
 ...erweitert die Sicherheitsabfrage *Captcha* zur Vermeidung von Spam um eine Komponente zur Digitalisierung von Büchern und anderen Quellen. [@recaptcha]
 
-![Recaptcha](images\\recaptcha.png "Recaptcha")
+![Recaptcha](images/recaptcha.png "Recaptcha")
 
 - [Artigo][9]
 ...ist ein Spiel aus dem Bereich *Social Image Tagging* bei dem die Spielerinnen und Spieler Kunstwerke verschlagworten. [@artigo]
@@ -81,7 +81,7 @@ Die Initiatoren der Plattform CrowdCrafting sind das Citizen Cyberscience Center
 - [Eyewire][10] 
 ...ist ein Spiel aus dem naturwissenschaftlichen Bereich, bei dem mit Hilfe der Bevölkerung die Struktur des Gehirns besser erforscht wird. [@eyewire]
 
-![Eyewire](images\\eyewire.png "Eyewire")
+![Eyewire](images/eyewire.png "Eyewire")
 
 # Literaturangaben
 
